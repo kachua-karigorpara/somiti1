@@ -35,7 +35,7 @@ const COMMITTEE=[
   {name:"মো: ইমরান হোসেন",key:"imran",post:"প্রচার প্রকাশনা তথ্য ও গবেষণা বিষয়ক সম্পাদক",job:"প্রাইভেট চাকুরী",tel:"01516-164043"},
   {name:"মো: মৃদুল হোসেন",key:"midul",post:"আইন স্বাস্থ্য ও চিকিৎসা বিষয়ক সম্পাদক",job:"প্রাইভেট চাকুরী",tel:"01778-742926"},
   {name:"মো: রুবেল ইসলাম",key:"rubel",post:"দপ্তর ও ক্রীড়া সম্পাদক",job:"প্রাইভেট চাকুরী",tel:"01860-821848"},
-  {name:"মো: শাহিন উদ্দীন",key:"shahin",post:"নিবাসী সদস্য",job:"প্রাইভেট চাকুরী",tel:"01719-508022"}
+  {name:"মো: শাহিন উদ্দীন",key:"shahin",post:"নির্বাহী সদস্য",job:"প্রাইভেট চাকুরী",tel:"01719-508022"}
 ];
 const C_FILTERS=["সব","ব্যবসা","শিক্ষকতা","চাকুরী"];
 const cGrid=document.getElementById('cGrid'),cPres=document.getElementById('cPres'),cQ=document.getElementById('cq'),cChips=document.getElementById('cChips');
